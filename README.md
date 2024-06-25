@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 ![image](https://github.com/Op-panda/CRUD-Contact-APP/assets/76877421/44d67fb2-143f-4203-a597-b43bbb93d997)
 
-![Video](https://github.com/Op-panda/CRUD-Contact-APP/public/Video.mp4)
+![Video](https://github.com/Op-panda/CRUD-Contact-APP/blob/master/public/Video.mp4)
